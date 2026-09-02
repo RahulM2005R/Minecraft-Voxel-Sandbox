@@ -174,30 +174,6 @@ Then open the local URL displayed in your terminal.
 
 ---
 
-## 📁 Project Structure
-
-A typical structure for the project may look like:
-
-```text
-voxelcraft/
-│
-├── src/
-│   ├── components/
-│   ├── game/
-│   ├── systems/
-│   ├── assets/
-│   └── ...
-│
-├── public/
-│
-├── package.json
-├── README.md
-└── ...
-```
-
-> Update this section to match the actual exported project structure.
-
----
 
 ## 🛠️ Technology Stack
 
